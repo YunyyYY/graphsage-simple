@@ -1,0 +1,20 @@
+Drama 0
+Comedy 1
+Thriller 2
+Romance 3
+Action 4
+Crime 5
+Horror 6
+Documentary 7
+Adventure 8
+Sci-Fi 9
+Mystery 10 ---
+Fantasy 11
+War 12 ---
+Children 13
+Musical 14 ---
+Animation 15 ---
+Western 16
+Film-Noir 17 ---
+(no genres listed) 18
+IMAX 19 ---

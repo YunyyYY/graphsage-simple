@@ -1,16 +1,10 @@
 *DS_Store
 
 # Custom
-*.csv
 *.idea
-*.png
-*.pdf
 tmp/
-*.txt
 *swp*
 *.sw?
-gcn_back
-.DS_STORE
 *.aux
 *.log
 *.out
